@@ -29,9 +29,5 @@ namespace PracticeOne.Controllers
             })
             .ToArray();
         }
-        //[HttpGet(Name = "TheName")]
-        //public string GetTheName() {
-        //    return "Practise";
-        //}
     }
 }
